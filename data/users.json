@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alicek",
+      "email": "alice@gmail.com",
+      "active": true
+    },
+    {
+      "name": "Bob",
+      "email": "bob@gmail.com",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "Carol",
+      "email": "carol@gmail.com",
+      "active": false,
+      "id": 3
+    },
+    {
+      "name": "Dan",
+      "email": "dan@gmail.com",
+      "active": false,
+      "id": 4
+    },
+    {
+      "name": "declan",
+      "email": "declan@gmail.com",
+      "active": true,
+      "id": 6
+    },
+    {
+      "name": "dec2",
+      "email": "asdfas@asdsad.com",
+      "active": true,
+      "id": 7
+    }
+  ]
+}
